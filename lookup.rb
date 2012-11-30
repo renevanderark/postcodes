@@ -3,7 +3,6 @@
 require "rubygems"
 require "simple_get_response"
 require "json"
-require "hpricot"
 require "cgi"
 
 
